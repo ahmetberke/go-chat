@@ -1,1 +1,1 @@
-package go_chat
+package main
